@@ -1,0 +1,57 @@
+Welcome to Scott Robbins and Clayton Carter's banking school!,,
+This program will allow you to learn the basics of banking.,,
+First, we want to explain some important ideas of banking.,,
+Then will be able to study these concepts and apply them in a banking game.,,
+All banks must start with capital in case the people who were
+supposed to pay them back for the loans can't pay them.,,
+Bankers make their profit by making loans to individuals,
+and banks collect more than they loaned out because of the interest.,,
+Banks must set the interest rate higher for the loans 
+it makes than the interest rate it pays to those holding their money in
+its banking accounts.,,
+While banks must make loans at a higher interest 
+rate, banks do not set the interest rate.,,
+The Federal Reserve, a governmental authority, does.,,
+The money in the bank's accounts can be used by 
+the bank at any time, but the people can also withdraw their money at anytime.,,
+Banks are not set up to allow everyone to 
+withdraw their money from the account at the same time.,,
+This is known as a run on a bank. This 
+often happens because people are afraid that they won't
+get their money back because the bank will become insolvent.,,
+Since the FDIC has been created in 1933, 
+people are repaid their money if their money is located in
+insolvent banks. This, in turn, has made runs on banks very, very rare.,,
+But, in order to have the FDIC have your clients' 
+back and cause a run on your bank to be infrequent, you must
+conform to the Federal Reserve's mandate for leverage.,,
+Leverage is the ratio of assets to capital.,,
+As mentioned previously, the capital must be sufficient 
+to stave off a potential fall in assets in order for the bank to
+stay in business.,,
+For this reason, the FDIC sets the mandatory leverage 
+for banks to limit the risk of it becoming insolvent,,
+As a banker, you will be inclined to use all of 
+your capital to make loans because loans are the source of your profit.,,
+However, the lower the ratio of your capital 
+to your assets (and loans are considered assets) is, the more
+likely you are to become insolvent.,,
+If your assets fall in value, your liabilities 
+may exceed your assets.,,
+If you do not have other money to cover for your 
+liabilities, you will be left with no money to make loans, which would
+mean you can't make a profit anymore.,,
+while you must owe money to those whose money are 
+in your bank account.,,
+When this happens, you need money to allow your bank to contue to make loans.,,
+If this happens, you go out of business and another 
+bank takes over your assets! That is, unless, you get bailed out from your 
+government.,,
+An asset is simply something that you own that has
+value. Loans and stocks are exaple of assets.,,
+However, as a banker, you are legally prohibited 
+from owning a stock because stocks' prices can fluctuate greatly,
+and this is risky for a bank.,,
+Banks are allowed to own bonds because it is simply a type of loan.,,
+Banks are encouraged to own a diversfied set of 
+assets, so in case one type goes down, the effect will be minimized.
