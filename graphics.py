@@ -763,7 +763,7 @@ class Text(GraphicsObject):
             raise GraphicsError(BAD_OPTION)
 
     def setSize(self, size):
-        if 5 <= size <= 80:
+        if 5 <= size <= 105:
             f,s,b = self.config['font']
             self._reconfig("font", (f,size,b))
         else:
@@ -961,6 +961,22 @@ def color_rgb(r,g,b):
     Returns color specifier string for the resulting color"""
     return "#%02x%02x%02x" % (r,g,b)
 
+def button(name,x1,y1,x2,y2,color,win,string):
+    buttonstate = False
+    name=Rectangle(Point(x1,y1),Point(x2,y2))
+    avgX = (x1 +x2)/2
+    avgY = (y1+y2)/2
+    caption = Text(Point(avgX,avgY),string)
+    name.setFill(color)
+    caption.setFill("white")
+    name.draw(win)
+    caption.draw(win)
+    #win.getMouse()
+    #clickpoint = win.getMouse()
+    #if clickpoint.getX() > x1 and clickpoint.getX() < x2 and clickpoint.getY() > y1 and clickpoint.getY() < y2:
+    #    buttonstate = True
+    win.update()
+    
 def test():
     win = GraphWin()
     win.setCoords(0,0,10,10)
